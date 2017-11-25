@@ -1,0 +1,485 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:17:1-30:12
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+	package
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:19:9-40
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:1-174:12
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:17:11-69
+	coreApp
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:18:9-23
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:21:5-79
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:11:5-79
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:22:5-88
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:22:22-85
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:26:22-74
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:27:22-71
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:28:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:30:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:31:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:32:5-81
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:32:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:33:22-75
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:34:22-77
+application
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:36:5-173:19
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-40:19
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-40:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:24:5-28:19
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:16:5-49:19
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:16:5-49:19
+	android:supportsRtl
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:38:13-39
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:36:18-58
+	android:defaultToDeviceProtectedStorage
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:40:13-59
+	android:icon
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:37:13-47
+	android:allowBackup
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:39:13-39
+	android:directBootAware
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:41:13-43
+service#com.rhealabs.keyboard.latin.LatinIME
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:44:9-51:19
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:45:17-57
+	android:permission
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:46:17-74
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:44:18-48
+intent-filter#android.view.InputMethod
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:47:13-49:29
+action#android.view.InputMethod
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:48:17-67
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:48:25-64
+meta-data#android.view.im
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:50:13-88
+	android:resource
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:50:55-85
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:50:24-54
+service#com.rhealabs.keyboard.latin.spellcheck.AndroidSpellCheckerService
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:53:9-61:19
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:54:18-68
+	android:permission
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:55:18-75
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:53:18-77
+intent-filter#android.service.textservice.SpellCheckerService
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:56:13-58:29
+action#android.service.textservice.SpellCheckerService
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:57:17-90
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:57:25-87
+meta-data#android.view.textservice.scs
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:59:13-60:60
+	android:resource
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:60:21-57
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:59:24-67
+service#com.rhealabs.keyboard.dictionarypack.DictionaryService
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:63:9-65:19
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:64:17-64
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:63:18-66
+activity#com.rhealabs.keyboard.latin.setup.SetupActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:68:9-78:20
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:70:17-57
+	android:launchMode
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:72:17-48
+	android:noHistory
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:73:17-41
+	android:icon
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:71:17-51
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:69:17-61
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:68:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:74:13-77:29
+action#android.intent.action.MAIN
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:75:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:76:27-74
+activity#com.rhealabs.keyboard.latin.permissions.PermissionsActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:80:9-85:20
+	android:exported
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:83:13-37
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:82:13-72
+	android:taskAffinity
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:81:13-66
+activity#com.rhealabs.keyboard.latin.setup.SetupWizardActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:87:9-94:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:90:17-49
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:89:17-57
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:88:17-61
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:87:19-66
+intent-filter#android.intent.action.MAIN
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:91:13-93:29
+activity#com.rhealabs.keyboard.latin.settings.SettingsActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:96:9-102:20
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:98:17-61
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:97:17-61
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:96:19-66
+activity#com.rhealabs.keyboard.latin.spellcheck.SpellCheckerSettingsActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:104:9-110:20
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:106:19-73
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:105:19-63
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:104:19-80
+activity#com.rhealabs.keyboard.dictionarypack.DictionarySettingsActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:112:9-119:20
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:114:17-66
+	android:uiOptions
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:115:17-61
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:113:17-61
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:112:19-76
+activity#com.rhealabs.keyboard.dictionarypack.DownloadOverMeteredDialog
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:121:9-127:20
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:123:17-87
+	android:theme
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:122:17-61
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:121:19-75
+activity#com.rhealabs.keyboard.latin.settings.TestFragmentActivity
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:130:9-131:44
+	android:exported
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:131:17-41
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:130:19-70
+receiver#com.rhealabs.keyboard.latin.SystemBroadcastReceiver
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:134:9-141:20
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:134:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCALE_CHANGED+android.intent.action.MY_PACKAGE_REPLACED+android.intent.action.USER_INITIALIZE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:135:13-140:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:136:17-84
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:136:25-81
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:137:17-79
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:137:25-76
+action#android.intent.action.USER_INITIALIZE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:138:17-80
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:138:25-77
+action#android.intent.action.LOCALE_CHANGED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:139:17-79
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:139:25-76
+receiver#com.rhealabs.keyboard.latin.DictionaryPackInstallBroadcastReceiver
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:143:9-147:20
+	android:exported
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:143:80-104
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:143:19-79
+intent-filter#.dictionarypack.aosp.UNKNOWN_CLIENT
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:144:13-146:29
+action#com.rhealabs.keyboard.dictionarypack.aosp.UNKNOWN_CLIENT
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:145:17-78
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:145:25-75
+receiver#com.rhealabs.keyboard.dictionarypack.EventHandler
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:149:9-156:20
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:149:19-62
+intent-filter#android.intent.action.DATE_CHANGED+android.intent.action.DOWNLOAD_COMPLETE+com.rhealabs.keyboard.dictionarypack.aosp.INIT_AND_UPDATE_NOW+com.rhealabs.keyboard.dictionarypack.aosp.UPDATE_NOW
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:150:13-155:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:151:17-82
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:151:25-79
+action#android.intent.action.DATE_CHANGED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:152:17-77
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:152:25-74
+action#com.rhealabs.keyboard.dictionarypack.aosp.UPDATE_NOW
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:153:17-95
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:153:25-92
+action#com.rhealabs.keyboard.dictionarypack.aosp.INIT_AND_UPDATE_NOW
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:154:17-104
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:154:25-101
+receiver#com.rhealabs.keyboard.latin.accounts.AccountsChangedReceiver
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:159:9-163:20
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:159:19-73
+intent-filter#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:160:13-162:29
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:161:17-82
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:161:25-79
+provider#com.rhealabs.keyboard.dictionarypack.DictionaryProvider
+ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:166:9-172:20
+	android:grantUriPermissions
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:167:17-51
+	android:authorities
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:169:17-56
+	android:label
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:171:17-65
+	android:multiprocess
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:170:17-45
+	android:exported
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:168:17-41
+	android:name
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml:166:19-68
+uses-sdk
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:20:5-22:41
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:6:5-8:41
+MERGED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/patrick/Documents/upwork/justsulandy/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-77
+provider#android.support.v4.content.FileProvider
+ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-60
+	android:exported
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-22:54
+	android:resource
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:17-51
+	android:name
+		ADDED from [:rheamoji] /Users/patrick/Documents/upwork/justsulandy/rheamoji/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ef216515992db56e7ecfec2857a29d40/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v13:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/f1abd64f357ec9ba0f0775b980fb08cc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/42b1ede394c899ea5b1eea0bc361ddce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9d319b556ef77183a5c1830ea2911625/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/2863f5be9929b288b9181d8e2a4971e6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1fd17b08ce59c8c1de7f2a629b9235f6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b55e226cd8f30450900729123386e8fb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/567051d5aa558119fa4b78bd766e92e0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6e71a474e17a78aeeeea905f92904e8b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/96ec7c5c991af68dc449565e2328f318/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fbd1ca5fae051fab45c0b647ef9e081f/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/patrick/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0290c86f2f9797b39699183bc1f73186/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.INTERNET
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:10:22-64
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:12:5-82
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:12:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:13:22-65
+uses-permission#com.rokolabs.mobitest.permission.C2D_MESSAGE
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:14:22-81
+activity#com.rokolabs.sdk.permissions.RequestPermissionsActivity
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:39:9-43:20
+	android:launchMode
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:41:13-43
+	android:theme
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:40:13-83
+activity#com.rokolabs.sdk.instabot.InstabotActivity
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:44:9-47:46
+	android:label
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:46:13-37
+	android:launchMode
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:45:13-70
+activity#com.rokolabs.sdk.http.RokoWebViewActivity
+ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:48:9-78
+	android:name
+		ADDED from [com.rokolabs:rokomobi-android-sdk:1.2.54.2] /Users/patrick/.gradle/caches/transforms-1/files-1.1/rokomobi-android-sdk-1.2.54.2.aar/4daa72db32e5f04a32b49e2e94452f12/AndroidManifest.xml:48:19-75

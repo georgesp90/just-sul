@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        applicationId "com.rhealabs.keyboard"
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 4
+        versionName "4.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    externalNativeBuild {
+        ndkBuild {
+            path 'jni/Android.mk'
+        }
+    }
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+    aaptOptions {
+        noCompress "dict"
+    }
+}
+
+dependencies {
+    compile 'com.google.code.findbugs:jsr305:3.0.2'
+    compile 'com.android.support:support-compat:26.1.0'
+    compile 'com.android.support:support-core-ui:26.1.0'
+    compile project(':rheamoji')
+}
