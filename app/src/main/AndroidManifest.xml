@@ -16,7 +16,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         coreApp="true"
-        package="com.rhealabs.keyboard">
+        package="com.sullabs.keyboard">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
@@ -150,8 +150,8 @@
             <intent-filter>
                 <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
                 <action android:name="android.intent.action.DATE_CHANGED" />
-                <action android:name="com.rhealabs.keyboard.dictionarypack.aosp.UPDATE_NOW" />
-                <action android:name="com.rhealabs.keyboard.dictionarypack.aosp.INIT_AND_UPDATE_NOW" />
+                <action android:name="com.sullabs.keyboard.dictionarypack.aosp.UPDATE_NOW" />
+                <action android:name="com.sullabs.keyboard.dictionarypack.aosp.INIT_AND_UPDATE_NOW" />
             </intent-filter>
         </receiver>
 

@@ -18,7 +18,7 @@
 */
 -->
 
-<Keyboard xmlns:latin="http://schemas.android.com/apk/res/com.rhealabs.keyboard"
+<Keyboard xmlns:latin="http://schemas.android.com/apk/res/com.sullabs.keyboard"
     latin:keyWidth="10%p"
     latin:rowHeight="@dimen/config_more_suggestions_row_height"
     >

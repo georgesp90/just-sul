@@ -73,9 +73,9 @@
         <item name="languageOnSpacebarTextShadowRadius">1.0</item>
         <item name="languageOnSpacebarTextShadowColor">@color/spacebar_text_shadow_color_holo</item>
     </style>
-    <!-- Though {@link com.rhealabs.keyboard.keyboard.emoji.EmojiPalettesView} doesn't extend
-         {@link com.rhealabs.keyboard.keyboard.KeyboardView}, some views inside it, for instance
-         delete button, need themed {@link com.rhealabs.keyboard.keyboard.KeyboardView}
+    <!-- Though {@link com.sullabs.keyboard.keyboard.emoji.EmojiPalettesView} doesn't extend
+         {@link com.sullabs.keyboard.keyboard.KeyboardView}, some views inside it, for instance
+         delete button, need themed {@link com.sullabs.keyboard.keyboard.KeyboardView}
          attributes. -->
     <style
         name="EmojiPalettesView.KLP"

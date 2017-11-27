@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Rhea Emojis-billentyűzet"</string>
-    <string name="spell_checker_service_name" msgid="1254221805440242662">"Rhea Emojisos helyesírás-ellenőrző"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Rhea Emojis-billentyűzet beállításai"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Rhea Emojisos helyesírás-ellenőrző beállításai"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Just Sul-billentyűzet"</string>
+    <string name="spell_checker_service_name" msgid="1254221805440242662">"Just Sulos helyesírás-ellenőrző"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Just Sul-billentyűzet beállításai"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Just Sulos helyesírás-ellenőrző beállításai"</string>
 </resources>

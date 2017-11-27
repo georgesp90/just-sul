@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Tastiera e Rhea Emojisit"</string>
-    <string name="spell_checker_service_name" msgid="1254221805440242662">"Kontrolluesi drejtshkrimor i Rhea Emojisit"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Cilësimet e tastierës së Rhea Emojisit"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Cilësimet e kontrolluesit drejtshkrimor të Rhea Emojisit"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Tastiera e Just Sulit"</string>
+    <string name="spell_checker_service_name" msgid="1254221805440242662">"Kontrolluesi drejtshkrimor i Just Sulit"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Cilësimet e tastierës së Just Sulit"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Cilësimet e kontrolluesit drejtshkrimor të Just Sulit"</string>
 </resources>
