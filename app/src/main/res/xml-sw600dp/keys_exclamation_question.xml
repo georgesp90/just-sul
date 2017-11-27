@@ -19,7 +19,7 @@
 -->
 
 <merge
-    xmlns:latin="http://schemas.android.com/apk/res/com.rhealabs.keyboard"
+    xmlns:latin="http://schemas.android.com/apk/res/com.sullabs.keyboard"
 >
     <Key
         latin:keySpec="!"

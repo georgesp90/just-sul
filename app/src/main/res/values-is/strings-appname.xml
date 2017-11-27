@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Rhea Emojis lyklaborð"</string>
-    <string name="spell_checker_service_name" msgid="1254221805440242662">"Rhea Emojis ritvilluleit"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Stillingar Rhea Emojis lyklaborðs"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Stillingar Rhea Emojis ritvilluleitar"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Just Sul lyklaborð"</string>
+    <string name="spell_checker_service_name" msgid="1254221805440242662">"Just Sul ritvilluleit"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Stillingar Just Sul lyklaborðs"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Stillingar Just Sul ritvilluleitar"</string>
 </resources>

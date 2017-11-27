@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Klávesnica Rhea Emojis"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Klávesnica Just Sul"</string>
     <string name="spell_checker_service_name" msgid="1254221805440242662">"Kontrola pravopisu"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Nastavenia klávesnice Rhea Emojis"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Nastavenia kontroly pravopisu Rhea Emojis"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Nastavenia klávesnice Just Sul"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Nastavenia kontroly pravopisu Just Sul"</string>
 </resources>

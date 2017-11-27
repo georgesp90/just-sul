@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Rhea Emojis klaviaturasi"</string>
-    <string name="spell_checker_service_name" msgid="1254221805440242662">"Rhea Emojis imlo tekshirgichi"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Rhea Emojis klaviaturasi sozlamalari"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Rhea Emojis imlo tekshirgichi sozlamalari"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Just Sul klaviaturasi"</string>
+    <string name="spell_checker_service_name" msgid="1254221805440242662">"Just Sul imlo tekshirgichi"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Just Sul klaviaturasi sozlamalari"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Just Sul imlo tekshirgichi sozlamalari"</string>
 </resources>

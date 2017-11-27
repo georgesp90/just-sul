@@ -13,10 +13,10 @@
 # limitations under the License.
 
 LATIN_IME_JNI_SRC_FILES := \
-    com_rhealabs_keyboard_keyboard_ProximityInfo.cpp \
-    com_rhealabs_keyboard_latin_BinaryDictionary.cpp \
-    com_rhealabs_keyboard_latin_BinaryDictionaryUtils.cpp \
-    com_rhealabs_keyboard_latin_DicTraverseSession.cpp \
+    com_sullabs_keyboard_keyboard_ProximityInfo.cpp \
+    com_sullabs_keyboard_latin_BinaryDictionary.cpp \
+    com_sullabs_keyboard_latin_BinaryDictionaryUtils.cpp \
+    com_sullabs_keyboard_latin_DicTraverseSession.cpp \
     jni_common.cpp
 
 LATIN_IME_CORE_SRC_FILES := \

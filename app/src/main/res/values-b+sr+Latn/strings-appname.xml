@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Rhea Emojis tastatura"</string>
-    <string name="spell_checker_service_name" msgid="1254221805440242662">"Rhea Emojis provera pravopisa"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Podešavanja Rhea Emojis tastature"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Podešavanja Rhea Emojis provere pravopisa"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Just Sul tastatura"</string>
+    <string name="spell_checker_service_name" msgid="1254221805440242662">"Just Sul provera pravopisa"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Podešavanja Just Sul tastature"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Podešavanja Just Sul provere pravopisa"</string>
 </resources>

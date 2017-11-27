@@ -20,8 +20,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="english_ime_name" msgid="5940510615957428904">"Rhea Emojis ಕೀಬೋರ್ಡ್"</string>
-    <string name="spell_checker_service_name" msgid="1254221805440242662">"Rhea Emojis ಕಾಗುಣಿತ ಪರೀಕ್ಷಕ"</string>
-    <string name="english_ime_settings" msgid="5760361067176802794">"Rhea Emojis ಕೀಬೋರ್ಡ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
-    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Rhea Emojis ಕಾಗುಣಿತ ಪರೀಕ್ಷಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
+    <string name="english_ime_name" msgid="5940510615957428904">"Just Sul ಕೀಬೋರ್ಡ್"</string>
+    <string name="spell_checker_service_name" msgid="1254221805440242662">"Just Sul ಕಾಗುಣಿತ ಪರೀಕ್ಷಕ"</string>
+    <string name="english_ime_settings" msgid="5760361067176802794">"Just Sul ಕೀಬೋರ್ಡ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
+    <string name="android_spell_checker_settings" msgid="6123949487832861885">"Just Sul ಕಾಗುಣಿತ ಪರೀಕ್ಷಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
 </resources>
